@@ -1,8 +1,8 @@
 type BaseMais<T, Opts extends {}> = T & {
-	// [K in string]                       // K é string
-	// : K extends keyof T ? T[K]          // K extende chaves de T?
-	// ? T[K]                              // - se sim: K tem o mesmo tipo de K existente em T
-	// : ((opts: Opts) => any) | undefined //- se não: K é do tipo `(opts: Opts) => any` ou `indefinido`
+	// [K in string]                         | K é string
+	// : K extends keyof T                   | K é uma chave em T?
+	//   ? T[K]                              | - se sim: K tem o mesmo tipo de K existente em T
+	//   : ((opts: Opts) => any) | undefined | - se não: K é do tipo `(opts: Opts) => any` ou `indefinido`
 	[K in string]: K extends keyof T ? T[K] : ((opts: Opts) => any) | undefined
 }
 
