@@ -23,11 +23,13 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
   - [TypeScript¹](https://www.typescriptlang.org/play)
 
 ```
-Legenda- ¹ site oficial- ² possui planos pagos
-> - ³ mais popular
-> - ⁺ meu favorito
+Legenda
+¹ site oficial-
+² possui planos pagos
+³ mais popular
+⁺ meu favorito
+```
 
-- ```
 Search Unicodes
   - [unicode-explorer.com](https://unicode-explorer.com/)
   - [unicodeplus.com](https://unicodeplus.com/)
