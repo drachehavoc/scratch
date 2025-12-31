@@ -15,5 +15,19 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 
 ## Links Úteis
 
-- 👨🏻‍💻 Playgrounds
-  - [assembly x64 - x64.halb.it](https://x64.halb.it/)
+- 🛝 Playgrounds 
+  - [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
+  - [Javascript (html/css/js) ↣ MDN¹](https://developer.mozilla.org/play)
+  - [Javascript (html/css/js) ↣ jsfiddle²](https://jsfiddle.net/)
+  - [Javascript (html/css/js) ↣ jspad.dev⁺](https://www.jspad.dev/)
+  - [TypeScript¹](https://www.typescriptlang.org/play)
+
+```
+Legenda- ¹ site oficial- ² possui planos pagos
+> - ³ mais popular
+> - ⁺ meu favorito
+
+- ```
+Search Unicodes
+  - [unicode-explorer.com](https://unicode-explorer.com/)
+  - [unicodeplus.com](https://unicodeplus.com/)
