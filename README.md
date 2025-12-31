@@ -15,9 +15,11 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 
 ## Links Úteis
 
-| site   |  oficial |        |  js    |  ts    | html  |   | css    | sass   | less   |
-| ------ | -------- | ------ | ------ | ------ | ------| - | ------ | ------ | ------ |
-|        |          |        |        |        |       |   |        |        | ![Alt text][my-image]       |
+🛝 Playgrounds (HTML5)
+
+| site   | oficial  |        |  langs  |
+| ------ |:--------:| ------ | ------ |
+|        |     X    |        | ![asdsadsa][js]![asdsadd][ts] |
 
 - 🛝 Playgrounds 
   - [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
@@ -26,9 +28,9 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
   - [Javascript (html/css/js) ↣ jspad.dev⁺](https://www.jspad.dev/)
   - [TypeScript - Microsoft](https://www.typescriptlang.org/play)
 
-![Alt text][my-image]
 
-[my-image]: /images/logo-javascript.png "Optional Title"
+[js]: /images/logo-javascript-16px.png "Optional Title"
+[ts]: /images/logo-typescript-16px.png "Optional Title"
 
 ```
 Legenda
