@@ -18,23 +18,15 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 🛝 Playgrounds (HTML5)
 
 | site                                                          | oficial  |        |  langs  |
-| ------------------------------------------------------------- |:--------:| ------ | ------  |
-| [MDN](https://developer.mozilla.org/play)                     |     X    |        |         |
-| [TypeScript - Microsoft](https://www.typescriptlang.org/play) |          |        |         |
-| [jsfiddle](https://jsfiddle.net/)                             |          |        |         |
-| [jspad.dev](https://www.jspad.dev/)                           |          |        |         |
+| ------------------------------------------------------------- |:--------:| ------ | --------------------------:|
+| [MDN](https://developer.mozilla.org/play)                     |     X    |        | ![][js]![][html5]![][css3]        |
+| [TypeScript - Microsoft](https://www.typescriptlang.org/play) |          |        | ![][js]![][ts]                    |
+| [jsfiddle](https://jsfiddle.net/)                             |          |        | ![][js]![][html5]![][css3]        |
+| [jspad.dev](https://www.jspad.dev/)                           |          |        | ![][js]![][html5]![][css3]        |
 
-
-![][js] 
-![][ts]
-![][html5]
-![][css3]
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-
-[js]: /images/logo-javascript-16px.png "Optional Title"
-[ts]: /images/logo-typescript-16px.png "Optional Title"
-[html5]: /images/logo-html5-16px.png "Optional Title"
+[js]: https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg "Optional Title"
+[ts]: https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-plain.svg "Optional Title"
+[html5]: https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain-wordmark.svg  "Optional Title"
 [css3]: https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain-wordmark.svg "Optional Title"
 
 🛝 Others Playgrounds 
