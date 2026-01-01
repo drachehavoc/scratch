@@ -38,3 +38,6 @@ Icons
 Search Unicodes
 - [unicode-explorer.com](https://unicode-explorer.com/)
 - [unicodeplus.com](https://unicodeplus.com/)
+
+Ascii Text Art
+- [Taag](https://patorjk.com/software/taag)
