@@ -15,27 +15,28 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 
 ## Links Úteis
 
-https://stateofjs.com/en-US
+- https://stateofjs.com/en-US
 
 🛝 Playgrounds (HTML5)
 
-| site                                                          | oficial  |        |  langs                            |
-| ------------------------------------------------------------- |:--------:| ------ |:----------------------------------|
-| [MDN](https://developer.mozilla.org/play)                     |     X    |        | ![][js]![][html5]![][css3]        |
-| [TypeScript - Microsoft](https://www.typescriptlang.org/play) |          |        | ![][js]![][ts]                    |
-| [jsfiddle](https://jsfiddle.net/)                             |          |        | ![][js]![][html5]![][css3]        |
-| [jspad.dev](https://www.jspad.dev/)                           |          |        | ![][js]![][html5]![][css3]        |
+| site                                                          | oficial  |          |  langs                              |
+| ------------------------------------------------------------- |:--------:| -------- |:------------------------------------|
+| [MDN](https://developer.mozilla.org/play)                     | ![][crs] | ![][fav] | ![][js] ![][html5] ![][css3]        |
+| [TypeScript - Microsoft](https://www.typescriptlang.org/play) |          |          | ![][js] ![][ts]                     |
+| [jsfiddle](https://jsfiddle.net/)                             |          |          | ![][js] ![][html5] ![][css3]        |
+| [jspad.dev](https://www.jspad.dev/)                           |          |          | ![][js] ![][html5] ![][css3]        |
 
-[js]:    https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg  "Javascript"
-[ts]:    https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-plain.svg  "TypeScript"
-[html5]: https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain-wordmark.svg   "HTML"
-[css3]:  https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain-wordmark.svg     "CSS"
+[js]:    https://api.iconify.design/devicon:javascript.svg  "Javascript"
+[ts]:    https://api.iconify.design/devicon:typescript.svg  "TypeScript"
+[html5]: https://api.iconify.design/devicon:html5.svg       "HTML"
+[css3]:  https://api.iconify.design/devicon:css3.svg        "CSS"
 
 🛝 Others Playgrounds 
 - [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
   
 Icons
-- [flaticon](https://www.flaticon.com/) 
+- [flaticon](https://www.flaticon.com/)
+- [Icônes](https://icones.js.org/)
 
 Search Unicodes
 - [unicode-explorer.com](https://unicode-explorer.com/)
@@ -43,3 +44,6 @@ Search Unicodes
 
 Ascii Text Art
 - [Taag](https://patorjk.com/software/taag)
+
+[fav]: https://api.iconify.design/material-symbols:favorite.svg "favorite"
+[crs]: https://api.iconify.design/akar-icons:cross.svg          "cross"
