@@ -248,7 +248,6 @@ Links Úteis
 
 |ofi-s| *site oficial* |fav-s| *meu favorito*
 
-
 🛝 Others Playgrounds
 
 * `Assembly x64 ↣ x64.halb.it⁺ <https://x64.halb.it/>`_
@@ -303,12 +302,12 @@ Ascii Text Art
    :alt: Web Components
 .. |fav| image:: https://api.iconify.design/material-symbols:favorite.svg?color=%23ff0000
    :alt: meu favorito
-.. |ofi| image:: https://api.iconify.design/akar-icons:cross.svg?color=%23ff0000
+.. |ofi| image:: https://api.iconify.design/ic:sharp-location-on.svg?color=%23ff0000
    :alt: site oficial
 
 .. |fav-s| image:: https://api.iconify.design/material-symbols:favorite.svg?color=%23ff0000
    :alt: meu favorito
-   :height: 10px
-.. |ofi-s| image:: https://api.iconify.design/akar-icons:cross.svg?color=%23ff0000
+   :height: 12px
+.. |ofi-s| image:: https://api.iconify.design/ic:sharp-location-on.svg?color=%23ff0000
    :alt: site oficial
-   :height: 10px
+   :height: 12px
