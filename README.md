@@ -114,12 +114,12 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 
 🛝 Playgrounds (HTML5)
 
-| site                                                          | ![][crs] oficial ![][fav] favorito |  linguages                 | alt: languages                          |  frameworks / biblioteca                    |
+| site                                                          | ![][crs] oficial ![][fav] favorito |  linguages                 | alt: languages                          |  frameworks / bibliotecas                   |
 | ------------------------------------------------------------- |:----------------------------------:|:---------------------------| --------------------------------------- | ------------------------------------------- |
 | [MDN](https://developer.mozilla.org/play)                     | ![][crs] ![][fav]                  | ![][js] ![][css] ![][html] |                                         |                                             |
 | [TypeScript - Microsoft](https://www.typescriptlang.org/play) |                                    | ![][js] ![][ts]            |                                         |                                             |
-| [jsfiddle](https://jsfiddle.net/)                             |                                    | ![][js] ![][css] ![][html] | ![][ts] ![][HAML] ![][sass] ![][coffee] | ![][VUE] ![][react] ![][preact] ![][postcss] ![][tailwind] |
-| [jspad.dev](https://www.jspad.dev/)                           |                                    | ![][js] ![][css] ![][html] | ![][ts]                                 | ![][VUE] ![][react] ![][svelte] ![][webcomp] ![][tailwind] |
+| [jsfiddle](https://jsfiddle.net/)                             |                                    | ![][js] ![][css] ![][html] | ![][ts] ![][HAML] ![][sass] ![][coffee] | ![][vue] ![][react] ![][preact] ![][postcss] ![][tailwind] |
+| [jspad.dev](https://www.jspad.dev/)                           |                                    | ![][js] ![][css] ![][html] | ![][ts]                                 | ![][vue] ![][react] ![][svelte] ![][webcomp] ![][tailwind] |
 
 [js]:    https://api.iconify.design/simple-icons:javascript.svg?color=%23F0DB4F  "Javascript"
 [ts]:    https://api.iconify.design/simple-icons:typescript.svg?color=%233178c6  "TypeScript"
@@ -128,7 +128,7 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
       
 [haml]:     https://api.iconify.design/vscode-icons:file-type-haml.svg?color=%233e3e29       "haml"
 [coffee]:   https://api.iconify.design/simple-icons:coffeescript.svg?color=%233e2723         "Coffee Script"
-[VUE]:      https://api.iconify.design/simple-icons:vuedotjs.svg?color=%2341b883             "Vue"
+[vue]:      https://api.iconify.design/simple-icons:vuedotjs.svg?color=%2341b883             "Vue"
 [react]:    https://api.iconify.design/simple-icons:react.svg?color=%2361DBFB                "React"
 [preact]:   https://api.iconify.design/simple-icons:preact.svg?color=%23673ab8               "Preact"
 [sass]:     https://api.iconify.design/simple-icons:sass.svg?color=%23cf649a                 "Sass/Scss"
