@@ -118,17 +118,17 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 
 | site                                                          | oficial  |          |  langs                              |
 | ------------------------------------------------------------- |:--------:| -------- |:------------------------------------|
-| [MDN](https://developer.mozilla.org/play)                     | ![][crs] | ![][fav] | ![][js] ![][html5] ![][css3]        |
+| [MDN](https://developer.mozilla.org/play)                     | ![][crs] | ![][fav] | ![][js] ![][css3]! [][html5]        |
 | [TypeScript - Microsoft](https://www.typescriptlang.org/play) |          |          | ![][js] ![][ts]                     |
-| [jsfiddle](https://jsfiddle.net/)                             |          |          | ![][js] ![][html5] ![][css3]        |
-| [jspad.dev](https://www.jspad.dev/)                           |          |          | ![][js] ![][html5] ![][css3]        |
+| [jsfiddle](https://jsfiddle.net/)                             |          |          | ![][js] ![][css3]! [][html5]        |
+| [jspad.dev](https://www.jspad.dev/)                           |          |          | ![][js] ![][css3]! [][html5]        |
 
-[js]:    https://api.iconify.design/devicon:javascript.svg  "Javascript"
-[ts]:    https://api.iconify.design/devicon:typescript.svg  "TypeScript"
-[html5]: https://api.iconify.design/devicon:html5.svg      "HTML"
-[css3]:   https://api.iconify.design/simple-icons:css.svg?color=%23663399     "CSS"
-[fav]: https://api.iconify.design/material-symbols:favorite.svg?color=%23ff0000 "favorite"
-[crs]: https://api.iconify.design/akar-icons:cross.svg?color=%23ff0000          "cross"
+[js]:    https://api.iconify.design/devicon:javascript.svg                        "Javascript"
+[ts]:    https://api.iconify.design/devicon:typescript.svg                        "TypeScript"
+[html5]: https://api.iconify.design/devicon:html5.svg                             "HTML"
+[css3]:  https://api.iconify.design/simple-icons:css.svg?color=%23663399          "CSS"
+[fav]:   https://api.iconify.design/material-symbols:favorite.svg?color=%23ff0000 "favorito"
+[crs]:   https://api.iconify.design/akar-icons:cross.svg?color=%23ff0000          "cross"
 
 🛝 Others Playgrounds 
 - [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
